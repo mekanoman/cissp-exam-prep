@@ -1,0 +1,22 @@
+name: Support request
+description: Get help with CISSP Exam Prep on iPhone, iPad or Mac.
+title: "Support: "
+labels: [support]
+body:
+  - type: markdown
+    attributes:
+      value: "Requests here are public. Please don't include your name, email, Apple Account or any other personal information."
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [iPhone, iPad, Mac]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you were doing, what you expected, and what you saw instead.
+    validations:
+      required: true

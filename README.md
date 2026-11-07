@@ -5,4 +5,4 @@ Public support and privacy pages for the CISSP Exam Prep app (iPhone, iPad and M
 - Support: https://mekanoman.github.io/cissp-exam-prep/support.html
 - Privacy Policy: https://mekanoman.github.io/cissp-exam-prep/privacy.html
 
-Need help? [Send a support request](https://github.com/mekanoman/cissp-exam-prep/issues/new?template=support.yml).
+Need help? Email support@bintera.com or [send a support request](https://github.com/mekanoman/cissp-exam-prep/issues/new?template=support.yml).

@@ -1,6 +1,8 @@
 # CISSP Exam Prep by Bintera
 
-Public support and privacy pages for the CISSP Exam Prep app (iPhone, iPad and Mac), published with GitHub Pages.
+Home, support and privacy pages for the Bintera CISSP® Exam Prep app (iPhone, iPad and Mac), published with GitHub Pages.
+
+- Home: https://mekanoman.github.io/cissp-exam-prep/
 
 - Support: https://mekanoman.github.io/cissp-exam-prep/support.html
 - Privacy Policy: https://mekanoman.github.io/cissp-exam-prep/privacy.html
